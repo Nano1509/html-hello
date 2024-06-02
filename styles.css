@@ -1,0 +1,129 @@
+body { background: rgb(213, 211, 211);
+    margin: 0;
+    font-family: "Roboto", sans-serif;}
+    
+    
+    header {background: white;
+    text-align: left;
+    padding-left: 140px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 3px}
+    
+    
+    header h1 {margin:0;
+    padding-left: 270px;}
+    
+    
+    div.container{width: 600px;
+    margin: auto;}
+    
+    
+    div.img1 {
+       width: 100%;
+    }
+    
+    
+    div.post1 {background: white;}
+    
+    
+    div.post1h1 {display: flex;
+       padding: 12px 5px;
+       margin-top: 50px;}
+      
+    p.p1p1{padding-top: 2px;
+       padding-left: 412px;
+       color: rgb(198, 193, 193);
+    margin: 0;}
+      
+    h3.p1h2{padding-left: 8px;
+    margin: 0;}
+      
+    div.post1footer {padding-right: 20px;
+           padding-left: 20px;
+           padding-bottom: 1px;}
+    
+    
+    
+    
+    
+    
+    div.post2 {background: white}
+    div.img2 {
+       width: 100%;
+    }
+    
+    
+    div.post2h1 {display: flex;
+        padding: 12px 5px;
+        margin-top: 50px;}
+       
+     p.p2p1{padding-top: 2px;
+        padding-left: 394px;
+        color: rgb(198, 193, 193);
+     margin: 0;}
+       
+     h3.p2h2{padding-left: 8px;
+     margin: 0;}
+       
+     div.post2footer {padding-right: 20px;
+            padding-left: 20px;
+            padding-bottom: 1px;}
+    
+    
+    
+    
+    
+    
+    
+    
+    div.post3 {background: white;
+    margin-bottom: 50px;}
+    div.img3 {
+       width: 100%;
+       margin-top: 100px;
+       margin-bottom: 100px;
+    }
+    
+    
+    div.post3h1 {display: flex;
+        padding: 12px 5px;
+        margin-top: 50px;
+        border-bottom: 1px solid #eeeeee;}
+       
+     p.p3p1{padding-top: 2px;
+        padding-left: 349px;
+        color: rgb(198, 193, 193);
+     margin: 0;}
+       
+     h3.p3h2{padding-left: 8px;
+     margin: 0;}
+       
+     div.post3footer {padding-right: 20px;
+            padding-left: 20px;
+            padding-bottom: 1px;
+            border-top: 1px solid #eeeeee}
+    
+    
+    
+    
+    div.post4 {background: white}
+    div.img4 {
+       width: 100%;
+    }
+    
+    div.post4h1 {display: flex;
+        padding: 12px 5px;
+        margin-top: 50px;}
+       
+     p.p4p1{padding-top: 2px;
+        padding-left: 309px;
+        color: rgb(198, 193, 193);
+     margin: 0;}
+       
+     h3.p4h2{padding-left: 8px;
+     margin: 0;}
+       
+     div.post4footer {padding-right: 20px;
+            padding-left: 20px;
+            padding-bottom: 1px;}
